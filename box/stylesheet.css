@@ -1,0 +1,26 @@
+*{margin:0;padding:0; outline:0;}
+
+body{font-family: vardana;font-size: 18px;color: #444;}
+
+.wrapper{width:800px;margin: 0 auto;border:1px solid #444;}
+
+.clr{overflow: hidden;}
+
+.headsection,.footsection {background: #ddd;padding:10px;text-align: center;}
+
+.headsection h2,.footsection h2{font-family: Arial;}
+
+.content clr{border:1px solid #4444;padding:50px;}
+
+.box{padding:50px;}
+
+.box ul{padding-left:50px;}
+
+.box ul li{}
+
+.box span{}
+
+.shoutform {padding-left: 50px;padding-bottom: 20px;}
+
+.footer{border-top:2px solid #444;}
+
